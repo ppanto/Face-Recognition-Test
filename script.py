@@ -15,7 +15,7 @@ print('[INFO] Entering training model phase.')
 
 startTime = time.time()
 
-imagePaths = list(paths.list_images("lfw-deepfunneled"))
+imagePaths = list(paths.list_images("images"))
 knownEncodings = []
 knownNames = []
 
