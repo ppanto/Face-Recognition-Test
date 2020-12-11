@@ -1,4 +1,4 @@
-Testing Face_Recognition library by Adam Geitgey and OpenCV's face finding algorithms.</ br>
+Testing Face_Recognition library by Adam Geitgey and OpenCV's face finding algorithms.<br/>
 All images are from "Labeled Faces in the Wild" http://vis-www.cs.umass.edu/lfw/
 
 Credits for images to:
